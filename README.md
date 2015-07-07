@@ -1,3 +1,3 @@
-*SAE App Test
+#SAE App Test
 
 Installing and setting up github
