@@ -1,0 +1,22 @@
+{
+  "name": "sae-test-app",
+  "version": "1.0.0",
+  "description": "Installing and setting up github",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powerpie/sae-test-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/powerpie/sae-test-app/issues"
+  },
+  "homepage": "https://github.com/powerpie/sae-test-app#readme",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
